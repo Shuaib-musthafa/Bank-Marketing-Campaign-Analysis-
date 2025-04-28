@@ -100,7 +100,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn plotly
 
 Feel free to reach out if you have any questions or suggestions!  
 **Email:** shuaibmusthafam@gmail.com  
-**LinkedIn:** [your-linkedin-profile](https://www.linkedin.com/in/shuaib-musthafa-771a07259/)
+**LinkedIn:** [shuaib-musthafa](https://www.linkedin.com/in/shuaib-musthafa-771a07259/)
 
 ---
 
